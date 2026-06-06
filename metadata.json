@@ -1,0 +1,6 @@
+{
+  "name": "Tienda de Mascotas",
+  "description": "Una landing page premium y elegante para un negocio de venta de mascotas, con filtros de búsqueda, buscador interactivo de compañeros ideales y cuestionario interactivo de compatibilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
